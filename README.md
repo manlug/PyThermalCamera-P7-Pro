@@ -1,0 +1,1 @@
+This application was created based on the code from repository [https://github.com/leswright1977/PyThermalCamera.git], and Artificial Intelligence (AI) was used to adapt it specifically for the ToolTop T7 Pro camera
